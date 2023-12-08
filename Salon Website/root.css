@@ -213,7 +213,7 @@ button:hover::before{
     font-size: 6rem;
     position: relative;
     display: flex;
-    bottom: 20px;
+    bottom: 10px;
     left: 10vw;
     color: #fff;
     overflow: hidden;
